@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## John C. Rasmussen
 
 You can use the [editor on GitHub](https://github.com/jrazdetroit/blah/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
