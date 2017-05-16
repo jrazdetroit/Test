@@ -1,12 +1,9 @@
 ## John C. Rasmussen
+**QA Analyst**, Musician, & Audio Engineer seeking Manual/Black Box testing opportunities in the Denver Metro area.
 
-You can use the [editor on GitHub](https://github.com/jrazdetroit/blah/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Killer guitarist
+- solid, powerful bassist
+- steady drummer
 
 ```markdown
 Syntax highlighted code block
